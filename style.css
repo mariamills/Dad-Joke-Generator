@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+button {
+  padding: 0.5rem;
+  background-color: brown;
+  color: white;
+  border-radius: 0.5rem;
+}
+
+button:hover {
+  background-color: rgb(189, 77, 77);
+  cursor: pointer;
+}
+
+div {
+  background-color: brown;
+  border: 1px solid black;
+  max-width: 50%;
+  margin: 3rem auto;
+  border-radius: 1.5rem;
+}
+
+p {
+  font-size: 1.5rem;
+  color: white;
+  display: none;
+}
